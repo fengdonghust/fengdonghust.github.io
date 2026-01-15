@@ -101,13 +101,13 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 I serve as the **Principal Investigator (PI)** for the following selected research projects:
 
 ## National & Government Grants
-- **National Natural Science Foundation of China (NSFC)**, "Research on Large-scale Endpoint APT Attack Detection Based on Distributed Profiling", Grant No. 62302181, 2024.01 – 2026.12. (Principal Investigator)
-- **Hubei Provincial Key Research and Development Program**, "Research on Intelligent Detection of Highly Concealed Cyber Threats Based on Knowledge Graphs", Grant No. 2023BAB079, 2023.04 – 2025.12. (Principal Investigator)
-- **National Key Laboratory of Data Space Technology and Systems**, "Research on the Security Architecture of Data-Network", Grant No. QZQC2024006, 2024.06 – 2025.06. (Principal Investigator)
+- **National Natural Science Foundation of China (NSFC)**, "Research on Large-scale Endpoint APT Attack Detection Based on Distributed Profiling", 2024.01 – 2026.12. (Principal Investigator)
+- **Hubei Provincial Key Research and Development Program**, "Research on Intelligent Detection of Highly Concealed Cyber Threats Based on Knowledge Graphs", 2023.04 – 2025.12. (Principal Investigator)
+- **National Key Laboratory of Data Space Technology and Systems**, "Research on the Security Architecture of Data-Network", 2024.06 – 2025.06. (Principal Investigator)
 
 ## Industrial & Collaborative Grants
-* **CCF-Tencent Rhino-Bird Young Faculty Open Research Fund**, "Research on Threat Hunting Techniques Based on Provenance Graph Analysis", Grant No. CCF-Tencent RAGR20250126, 2025.10 – 2026.09. (Principal Investigator, **Acceptance Rate: 9.5%, 37/390**)
-* **CCF-NSFOCUS Kunpeng Research Fund**, "Research on Autonomous Event Investigation Techniques Based on Intelligent Agents", Grant No. CCF-NSFOCUS 2025010, 2025.12 – 2026.12. (Principal Investigator, **Acceptance Rate: 17.5%, 14/80**)
+* **CCF-Tencent Rhino-Bird Young Faculty Open Research Fund**, "Research on Threat Hunting Techniques Based on Provenance Graph Analysis", 2025.10 – 2026.09. (Principal Investigator, **Acceptance Rate: 9.5%, 37/390**)
+* **CCF-NSFOCUS Kunpeng Research Fund**, "Research on Autonomous Event Investigation Techniques Based on Intelligent Agents", 2025.12 – 2026.12. (Principal Investigator, **Acceptance Rate: 17.5%, 14/80**)
 
 # 📚 Teaching
 
@@ -129,5 +129,5 @@ I am deeply committed to undergraduate education, consistently delivering core p
 ---
 
 <p style="text-align: center; color: #808080; word-break: break-all;">
-  &copy; Copyright 2025 Feng Dong. Last Updated: {{ site.time | date: "%-d %b %Y" }}
+  &copy; Copyright 2026 Feng Dong. Last Updated: {{ site.time | date: "%-d %b %Y" }}
 </p>
