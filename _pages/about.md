@@ -14,11 +14,10 @@ redirect_from:
 
 I am currently an **Associate Professor** at the School of Cyber Science and Engineering, **Huazhong University of Science and Technology (HUST)**, and a member of the Security Pride Group led by Prof. [Haoyu Wang](https://howiepku.github.io/). Before joining academia in 2023, I worked as a Senior Security Researcher at **Sangfor Technologies** for five years, gaining extensive industrial experience. I received my PhD degree in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2018.  
 
-I am interested in the intersection of security, program analysis, and AI systems.
-Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and Agentic Systems.
-- **OSS Security**: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
-- **Endpoint Security**: Ransomware (CCS'24), MiniApp Security (ASE'23, ASE'25) & Privacy (SaTS'23, TOSEM'25)
-- **Agentic Security**: LLM Supply Chain (ASE'24, TOSEM'25), Agentic Software (ICSE'26), LLM Infra (ASE'25, ICSE'26)
+With a dual background in both industry and academia, I maintain close research collaborations with leading security enterprises, including **Tencent**, **NSFOCUS**, and **Sangfor Technologies**. My research is deeply rooted in solving practical security challenges within enterprise environments, with a primary focus on:
+- 1)**Next-Generation Detection and Response**: Including LLM-empowered APT attack detection, SOC alert noise reduction, and autonomous response agents.
+- 2)**Endpoint Evasion and Defense**: Including EDR evasion technique evaluation and adversarial gaming between EDR offensive and defensive agents.
+- 3)**Vulnerability Research**: Including LLM-empowered vulnerability mining and automated exploit generation (AEG).
 
 I am actively looking for self-motivated Ph.D. and Master’s students to join my team. If you are passionate about security research, please email me with your CV.
 
