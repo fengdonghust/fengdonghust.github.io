@@ -65,8 +65,6 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 
 # 🏆 Honors & Awards
 
-## <span style="color:grey">Awards</span>
-
 - 2024 - Third Prize, Prototype Competition in ChinaSoft'24 [[Reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
 - 2023 - Bronze Award, National Innovation Competition [[Reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
 - 2023 - Third Prize, Prototype Competition in ChinaSoft'23 [[Reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
@@ -105,6 +103,10 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 - **Permission Abuse Detection in Android/iOS Apps**
   <br>_Cybersecurity College Student Innovation Funding Program_ ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
   <br>_Funded by CSAC and NIO_, 2022.7-2023.11
+
+# 📚 Teaching
+
+- Fall 2025 - Computer Network Security
 
 <!-- <div align=center><img src="http://fengdonghust.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div> -->
 
